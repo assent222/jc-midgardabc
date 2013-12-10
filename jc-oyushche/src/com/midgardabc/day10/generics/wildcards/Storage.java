@@ -1,9 +1,9 @@
-package com.midgardabc.day10.generics.v1;
+package com.midgardabc.day10.generics.wildcards;
 
 import java.util.ArrayList;
 import java.util.List;
 
-public class Storage<T> {
+public class Storage<T extends Product> {
 
 	private List<T> goods;
 	

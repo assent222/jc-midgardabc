@@ -1,6 +1,6 @@
-package com.midgardabc.day10.generics.v1;
+package com.midgardabc.day10.generics.wildcards;
 
-public class Eagle {
+public class Eagle extends Product {
 	
 	private String location;
 	

@@ -1,4 +1,4 @@
-package com.midgardabc.day10.generics.v1;
+package com.midgardabc.day10.generics.wildcards;
 
 public class Duck extends Product {
 	
